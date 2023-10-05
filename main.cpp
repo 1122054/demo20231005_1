@@ -1,7 +1,7 @@
 /***    
  *   hw 20231005
- *   @author: 1122099
- *   @name: yzu1122054
+ *   @author: 1122054
+ *   @name: 胡紘睿
 ***/
 #include <iostream>
 using namespace std;
